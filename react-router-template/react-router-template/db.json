@@ -1,0 +1,74 @@
+{
+  "products": {
+    "Hoodies": [
+      {
+        "name": "Hoody 1",
+        "image": "https://placehold.co/250x150",
+        "id": "h1"
+      },
+      {
+        "name": "Hoody 2",
+        "image": "https://placehold.co/250x150",
+        "id": "h2"
+      },
+      {
+        "name": "Hoody 3",
+        "image": "https://placehold.co/250x150",
+        "id": "h3"
+      },
+      {
+        "name": "Hoody 4",
+        "image": "https://placehold.co/250x150",
+        "id": "h4"
+      }
+    ],
+    "Tees": [
+      {
+        "name": "Tees 1",
+        "image": "https://placehold.co/250x150",
+        "id": "t1"
+      },
+      {
+        "name": "Tees 2",
+        "image": "https://placehold.co/250x150",
+        "id": "t2"
+      },
+      {
+        "name": "Tees 3",
+        "image": "https://placehold.co/250x150",
+        "id": "t3"
+      },
+      {
+        "name": "Tees 4",
+        "image": "https://placehold.co/250x150",
+        "id": "t4"
+      }
+    ],
+    "Sneakers": [
+      {
+        "name": "Sneaker 1",
+        "image": "https://placehold.co/250x150",
+        "id": "s1"
+      },
+      {
+        "name": "Sneaker 2",
+        "image": "https://placehold.co/250x150",
+        "id": "s2"
+      },
+      {
+        "name": "Sneaker 3",
+        "image": "https://placehold.co/250x150",
+        "id": "s3"
+      },
+      {
+        "name": "Sneaker 4",
+        "image": "https://placehold.co/250x150",
+        "id": "s4"
+      }
+    ]
+  },
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ]
+}
